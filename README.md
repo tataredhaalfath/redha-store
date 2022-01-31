@@ -1,11 +1,14 @@
 # redha-store
 ecommerse online store develop with CodeIngter
-login sebagai user :    email = gundul@gmail.com
-                        password = 12345
 
-login sebagai admin :   url = http://localhost/redha-store/login
-                        username = redha      
-                        password = 12345
+- login sebagai user :    
+- email = gundul@gmail.com
+- password = 12345
+
+- login sebagai admin :   
+- url = http://localhost/redha-store/login
+- username = redha      
+- password = 12345
 
 
 ### MAIN PAGE
